@@ -11,7 +11,7 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 * Explain the OSI Model. (This requires networking knowledge. Hint to remember the 7 layers: All People Seem to Need Data Processing. (This is a Mnemonic) )
 * Explain a 3 way handshake. (Requires basic networking knowledge. Hint: When thinking about a 3 way handshake, think about a mailman delivering a package with a tracking number)
 * What is the difference between Symmetric and Asymmetric encryption? (Basic knowledge of encryption. Hint: Symmetric = Same, Asymmetric = Different)
-* How does encryption and hashing differ? (Basic knowledge of encryption. Hint: The CIA triad)
+* How does encryption, encoding and hashing differ? (Basic knowledge of encryption. Hint: The CIA triad)
 * What are some important protocols and their respective ports? What are those protocols used for? (Basic networking knowledge. Interviewer is looking to gauge your networking experience and how well you explain their purpose.)
 * Explain the differences between risk, vulnerability, and a threat. (The interviewer is looking for a clear and concise answer. Less words are more.)
 * What happens when you enter a site on google in your browser? (Test networking and protocol knowledge, hint think of DHCP, NAT, DNS & it's recursion, IP Addresses)
