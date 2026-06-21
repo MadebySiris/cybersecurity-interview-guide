@@ -23,6 +23,7 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 * Explain what subnetting is and why it's important?
 * Explain NAT and why it's Important?
 * What are some common Cyber Attacks?
+* Go Over the pyramid of pain from top to bottom and explain how blue teams use it in conjugation with mitre att&ck to make attackers objectives harder.
 
 ## Scenario Based Questions
 * You receive an alert for an incident, how would you investigate it? (There's no right or wrong answer to this situation. This is a vague question, in which you have to ask questions to gather information before deciding how you're going to answer the question. Having experience conduction investigations will help you with this, but not having experience isn't the end of the world. Think out loud of your solutions so that they can hear your thought process. Hearing your thought process is extremely important.)
