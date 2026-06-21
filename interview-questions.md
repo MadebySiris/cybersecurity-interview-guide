@@ -18,7 +18,7 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 * Can you explain the difference between true positive, false positive, and false negative?
 * What is SSL (Secure Sockets Layer)? Explain how it works
 * What is TSL (Transport Layer Security)? Explain how it works
-* What is a Firewall and why is it used? (Explain the Difference between a stateful and stateless firewall.
+* What is a Firewall and why is it used? (Explain the Difference between a stateful and stateless firewall).
 * Explain MITM attack and how to prevent it?
 * Explain DDOS attack and how to prevent it?
 * Can you describe a standard cyber security incident response process? (USE NIST IR process and give some details about what happens at each stage).
