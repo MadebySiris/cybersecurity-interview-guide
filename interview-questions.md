@@ -3,6 +3,8 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 * Tell me about yourself. (This question is not meant for you to give your life story. This question is meant for you to give an overview of your career  geared towards cybersecurity, your educational background, why you chose cybersecurity, your passion for cybersecurity, etc.)
 * What steps would you take you secure a server? (This question is asked to see if you have a basic understanding of how to secure a server. This does not mean you will be administering servers, but it lets the interviewer know that you understand basic fundamentals of system hardening.)
 * What is the difference between UDP and TCP? (Testing you networking and protocol knowledge. Hint: One protocol is primarily used in Video Streaming. The other protocol is used to send emails.)
+* How do you stay up to date with the latest security news?
+*  Are there any high-profile security incidents that have interested you lately and why?
 * What are the default ports for HTTP and for HTTPS? (Requires basic port and protocol knowledge.)
 * Explain the CIA Triad. (The CIA Triad is the backbone of cybersecurity. It's important to understand it.)
 * What is two-factor authentication? (You don't need to know how to implement it, but understanding it full and knowing why you should use it is important.)
@@ -12,7 +14,7 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 * How does encryption and hashing differ? (Basic knowledge of encryption. Hint: The CIA triad)
 * What are some important protocols and their respective ports? What are those protocols used for? (Basic networking knowledge. Interviewer is looking to gauge your networking experience and how well you explain their purpose.)
 * Explain the differences between risk, vulnerability, and a threat. (The interviewer is looking for a clear and concise answer. Less words are more.)
-* What happens when you enter a site on google in your browser? (Test networking and protocol knowledge) This is taking a concept that every internet user might take for granted, but that Security professionals should know in more detail about.
+* What happens when you enter a site on google in your browser? (Test networking and protocol knowledge, hint think of DHCP, NAT, DNS & it's recursion, IP Addresses)
 * Can you explain the difference between true positive, false positive, and false negative?
 * What is SSL (Secure Sockets Layer)? Explain how it works
 * What is TSL (Transport Layer Security)? Explain how it works
@@ -50,4 +52,7 @@ When interviewing for cybersecurity positions, there won't be many application s
 * What is the OWASP Top 10? (These are the most critical security risks to web applications)
 * Explain XSS and how can to prevent it? (XSS is apart of the OWASP Top 10)
 * Explain SQL Injection and how to prevent it? (SQL Injection is apart of the OWASP Top 10)
+* Explain CORS and how can to prevent it?
+* Explain CSRF and how can to prevent it?
+* Explain Command Injection and how can to prevent it?
 
