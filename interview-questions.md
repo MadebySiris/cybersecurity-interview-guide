@@ -12,9 +12,17 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 * How does encryption and hashing differ? (Basic knowledge of encryption. Hint: The CIA triad)
 * What are some important protocols and their respective ports? What are those protocols used for? (Basic networking knowledge. Interviewer is looking to gauge your networking experience and how well you explain their purpose.)
 * Explain the differences between risk, vulnerability, and a threat. (The interviewer is looking for a clear and concise answer. Less words are more.)
-* What happens when you enter a site on google in your browser? (Test networking and protocol knowledge)
-This is taking a concept that every internet user might take for granted, but that Security professionals should know in more detail about.
-
+* What happens when you enter a site on google in your browser? (Test networking and protocol knowledge) This is taking a concept that every internet user might take for granted, but that Security professionals should know in more detail about.
+* Can you explain the difference between true positive, false positive, and false negative?
+* What is SSL (Secure Sockets Layer)? Explain how it works
+* What is TSL (Transport Layer Security)? Explain how it works
+* What is a Firewall and why is it used? (Explain the Difference between a stateful and stateless firewall.
+* Explain MITM attack and how to prevent it?
+* Explain DDOS attack and how to prevent it?
+* Can you describe a standard cyber security incident response process? (USE NIST IR process and give some details about what happens at each stage).
+* Explain what subnetting is and why it's important?
+* Explain NAT and why it's Important?
+* What are some common Cyber Attacks?
 
 ## Scenario Based Questions
 * You receive an alert for an incident, how would you investigate it? (There's no right or wrong answer to this situation. This is a vague question, in which you have to ask questions to gather information before deciding how you're going to answer the question. Having experience conduction investigations will help you with this, but not having experience isn't the end of the world. Think out loud of your solutions so that they can hear your thought process. Hearing your thought process is extremely important.)
@@ -31,7 +39,3 @@ When interviewing for cybersecurity positions, there won't be many application s
 * Explain XSS and how can to prevent it? (XSS is apart of the OWASP Top 10)
 * Explain SQL Injection and how to prevent it? (SQL Injection is apart of the OWASP Top 10)
 
-
-## Splunk/SIEM Interview Questions
-You will rarely have splunk specific interview questions, unless you're specifically interviewing for a splunk engineer, admin, etc. role. However, Splunk is a popular tool that many companies use for alerts, analysis, and monitoring. As a security analyst you will be using splunk or SIEM to conduct investigations.
-* Explain Splunk Architecture. (Interviewer is looking for you to explain each component of Splunk.)
