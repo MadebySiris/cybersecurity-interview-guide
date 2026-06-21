@@ -41,6 +41,12 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 *  What would you do if noticed mimikatz on a domain controller?
 *  What would you do if you observed multiple user accounts were compromised?
 * Can you tell me about a favorite threat detection that you have built? How did you build it? What problem did it solve? (This question may be geared towards security engineers and/or tier 3. This question will be to gauge the complexity of threat detections you have built, what data sources you have used, etc. It's also a time to show off your critical thinking skills on how & why you developed them. As well as how you were able to solve problems that the organization may or may not have known existed)
+* An endpoint detection alert fires for rundll32.exe executing from a temp directory. What do you check?
+* You see a spike in outbound DNS requests from a single host. How do you analyze whether this is command and control?
+* A workstation begins beaconing every 60 seconds to an unknown domain. How do you investigate?
+* You receive an alert for impossible travel across two countries within 30 minutes. Walk through your full triage process?
+
+
   
 
 ## Network Security Interview Questions
