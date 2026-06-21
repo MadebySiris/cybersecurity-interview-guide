@@ -27,7 +27,18 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 ## Scenario Based Questions
 * You receive an alert for an incident, how would you investigate it? (There's no right or wrong answer to this situation. This is a vague question, in which you have to ask questions to gather information before deciding how you're going to answer the question. Having experience conduction investigations will help you with this, but not having experience isn't the end of the world. Think out loud of your solutions so that they can hear your thought process. Hearing your thought process is extremely important.)
 * A user reports that their computer is running slow and acting abnormal. You investigate it and notice that the computer has been making requests to an unknown IP address, what do you? (This question gauges your knowledge on attack methods and networking. Hint: DNS requests is  🔑 )
+*  How would you triage(analyze) an unusual authentication alert in the environment?
+*  How would you investigate a malicious phishing alert
+*  How would you determine if data exfiltration has taken place?
+*  How would you triage a user downloading potential malicious software?
+*  How would you analyze a suspicious process alert firing for an endpoint? How would you determine if it's malicious?
+*  Lets say a user account was compromised? How would you look for lateral movement in the environment?
+*  An S3 bucket was made public, how do you determine if this activity is suspicious or a false positive?
+*  How would you triage unusual IAM activity for a user in AWS?
+*  What would you do if noticed mimikatz on a domain controller?
+*  What would you do if you observed multiple user accounts were compromised?
 * Can you tell me about a favorite threat detection that you have built? How did you build it? What problem did it solve? (This question may be geared towards security engineers and/or tier 3. This question will be to gauge the complexity of threat detections you have built, what data sources you have used, etc. It's also a time to show off your critical thinking skills on how & why you developed them. As well as how you were able to solve problems that the organization may or may not have known existed)
+  
 
 ## Network Security Interview Questions
 * Which is more secure HTTPS, SSL, or TLS. (This is a trick question. Requires basic networking knowledge. Hint: What does HTTPS use to encrypt data?)
