@@ -45,8 +45,9 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 * You see a spike in outbound DNS requests from a single host. How do you analyze whether this is command and control?
 * A workstation begins beaconing every 60 seconds to an unknown domain. How do you investigate?
 * You receive an alert for impossible travel across two countries within 30 minutes. Walk through your full triage process?
-You have a bad actor in your environment. You have no alerts. How do you detect/investigate?
-  
+* You have a bad actor in your environment. You have no alerts. How do you detect/investigate?
+* A suspicious executable appears in C:\ProgramData. How do you analyze it?
+* You observe encoded or obfuscated PowerShell commands. What steps do you take to analyze it?
 
 ## Network Security Interview Questions
 * Which is more secure HTTPS, SSL, or TLS. (This is a trick question. Requires basic networking knowledge. Hint: What does HTTPS use to encrypt data?)
