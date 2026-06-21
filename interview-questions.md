@@ -45,8 +45,7 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 * You see a spike in outbound DNS requests from a single host. How do you analyze whether this is command and control?
 * A workstation begins beaconing every 60 seconds to an unknown domain. How do you investigate?
 * You receive an alert for impossible travel across two countries within 30 minutes. Walk through your full triage process?
-
-
+You have a bad actor in your environment. You have no alerts. How do you detect/investigate?
   
 
 ## Network Security Interview Questions
