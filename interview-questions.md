@@ -9,6 +9,8 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 * Explain the CIA Triad. (The CIA Triad is the backbone of cybersecurity. It's important to understand it.)
 * What is two-factor authentication? (You don't need to know how to implement it, but understanding it full and knowing why you should use it is important.)
 * Explain the OSI Model. (This requires networking knowledge. Hint to remember the 7 layers: All People Seem to Need Data Processing. (This is a Mnemonic) )
+* Authentication vs. authorization vs. accounting (AAA) — Explain the difference with an example.
+* Least privilege and defense in depth and zero trust — Define both and explain why layering matters.
 * Explain a 3 way handshake. (Requires basic networking knowledge. Hint: When thinking about a 3 way handshake, think about a mailman delivering a package with a tracking number)
 * What is the difference between Symmetric and Asymmetric encryption? (Basic knowledge of encryption. Hint: Symmetric = Same, Asymmetric = Different)
 * How does encryption, encoding and hashing differ? (Basic knowledge of encryption. Hint: The CIA triad)
